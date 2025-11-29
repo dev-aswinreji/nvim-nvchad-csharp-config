@@ -1,3 +1,7 @@
+** Important thing to notice
+ - We need to manually install rosyln package inorder to activate lsp
+ - Inside nvim use masonInstall rosyln
+
 **This repo is supposed to be used as config by NvChad users!**
 
 - The main nvchad repo (NvChad/NvChad) is used as a plugin by this repo.
