@@ -1,4 +1,4 @@
-** Important thing to notice
+**Important thing to notice
  - We need to manually install rosyln package inorder to activate lsp
  - Inside nvim use masonInstall rosyln
 
